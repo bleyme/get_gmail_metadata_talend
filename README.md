@@ -94,7 +94,7 @@ When clicked on Ok, access_token is generated. This step must be done only the f
 
 The goal was to create a simple job using  **GetGoogleToken** to request Gmail API and retrieve the following data:
  Property name	 | Value | Description 
-------------- | ------------- | -------------
+------------ | ------------ | -------------
  emailAddress | string | The user's email address.	
  messagesTotal | integer | The total number of messages in the mailbox.	
  threadsTotal | integer	 | The total number of threads in the mailbox.	
