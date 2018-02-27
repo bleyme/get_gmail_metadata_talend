@@ -1,0 +1,4 @@
+client_id;YOUR_CLIENT_ID
+client_secret;YOUR_SECRET_ID
+scope;https://www.googleapis.com/auth/gmail.metadata
+email;YOUR_ADDRESS_EMAIL
