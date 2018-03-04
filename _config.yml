@@ -1,1 +1,13 @@
 remote_theme: adueck/good-clean-read
+title: Good Clean Read
+tag_text: Good Clean Read
+description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+url: "https://bleyme.github.io/get_gmail_metadata_talend/"
+baseurl: "https://bleyme.github.io/get_gmail_metadata_talend/"
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
